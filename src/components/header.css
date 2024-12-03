@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #1C1E53 !important;
+}
+.nav-link a{
+    color: white !important;
+    font-size: 16px;
+    margin-right:32px !important;
+    text-decoration: none !important;
+}
+.contactbtn {
+    border: 1px grey solid !important;
+    border-radius: 41px;
+    padding: 16px 48px !important;
+}

@@ -1,0 +1,35 @@
+.headline {
+    text-align: center;
+    padding: 100px 0;
+}
+.contactform {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 1064px !important;
+}
+.col-lg-6{
+    text-align: left;
+}
+.col-lg-6 input {
+    width: 100%;
+}
+.col-lg-6 p {
+    padding: 50px 0 0;
+}
+input {
+    border-radius: 20px;
+}
+.message::placeholder{
+    position: absolute;
+    top: 5px;
+    left: 10px;
+}
+
+
+.submitbtn {
+    font-size: 16px;
+    color: white;
+    background-color: #282938;
+    padding: 16px 64px;
+    margin: 20px 0 0;
+}

@@ -1,0 +1,11 @@
+.col-lg-4 {
+    color: white !important;
+}
+#banner a {
+    text-decoration: none;
+    padding: 16px 56px;
+    background-color: #FCD980;
+    color: black;
+    border-radius: 50px;
+    display: inline-block;
+}
